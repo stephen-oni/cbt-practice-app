@@ -2,7 +2,7 @@
 
 A lightweight, high-performance Streamlit application designed to parse PDF past questions (including text blocks and diagrams) into a clean, randomized Computer-Based Test (CBT) practice interface.
 
-Built to solve the common trap of photographic memory—where users accidentally cram the answers instead of learning the concepts. The application flexibly supports two major PDF answer layouts: **Inline** (answers placed immediately below each question) and **End of Document** (an answer key listing located at the end of the file).
+Built to solve the common trap of photographic memory where users accidentally cram the answers instead of learning the concepts. The application flexibly supports two major PDF answer layouts: **Inline** (answers placed immediately below each question) and **End of Document** (an answer key listing located at the end of the file).
 
 still in beta stage and open to question
 

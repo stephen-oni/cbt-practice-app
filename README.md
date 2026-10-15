@@ -58,7 +58,7 @@ streamlit run app.py
 
 ---
 
-5. To close the localhost web go to your python environment and and use ctrl + c to stop the mahcine
+5. To close the localhost open port. Go to your python environment where you run the application and use ctrl + c to stop the machine in the command line interface.
 
 ---
 
